@@ -34,7 +34,7 @@
     "jsonwebtoken": "^9.0.0",
     "kafkajs": "^2.2.4",
     "lodash": "^4.17.21",
-    "mongoose": "^7.2.3",
+    "mongoose": "^7.3.3",
     "nanoid": "^4.0.2",
     "openai": "^3.2.1",
     "pino": "^8.14.1",
